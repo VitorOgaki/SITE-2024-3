@@ -7,7 +7,7 @@ body{
     justify-content: space-around;
     text-align: center;
     color: black;
-     font-family:Helvetica;
+     font-family:Stoked, Helvetica;
 }
 main{
     display: flex;
